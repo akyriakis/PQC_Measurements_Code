@@ -1,0 +1,143 @@
+<?xml version="1.0"?>
+<ROOT>
+  <HEADER>
+    <TYPE>
+      <EXTENSION_TABLE_NAME>HALFMOON_METADATA</EXTENSION_TABLE_NAME>
+      <NAME>Tracker Halfmoon Metadata</NAME>
+    </TYPE>
+    <RUN mode="SEQUENCE_NUMBER" sequence="TRK_OT_RUN_SEQ">
+      <RUN_TYPE>PQC</RUN_TYPE>
+      <LOCATION>Demokritos</LOCATION>
+      <INITIATED_BY_USER>A. Kyriakis</INITIATED_BY_USER>
+      <RUN_BEGIN_TIMESTAMP>2021-09-30 14:46:24</RUN_BEGIN_TIMESTAMP>
+      <COMMENT_DESCRIPTION>Test</COMMENT_DESCRIPTION>
+    </RUN>
+  </HEADER>
+  <DATA_SET>
+    <COMMENT_DESCRIPTION>Metadata with flute and structure</COMMENT_DESCRIPTION>
+    <VERSION>v2</VERSION>
+    <PART>
+      <NAME_LABEL>37401_028_2-S_HM_EE</NAME_LABEL>
+      <KIND_OF_PART>2S Halfmoon E</KIND_OF_PART>
+    </PART>
+    <DATA>
+      <KIND_OF_HM_FLUTE_ID>PQC2</KIND_OF_HM_FLUTE_ID>
+      <KIND_OF_HM_STRUCT_ID>R_POLY</KIND_OF_HM_STRUCT_ID>
+      <KIND_OF_HM_SET_ID>Left</KIND_OF_HM_SET_ID>
+      <KIND_OF_HM_CONFIG_ID>Not Used</KIND_OF_HM_CONFIG_ID>
+      <EQUIPMENT>KEITHLEY 2410</EQUIPMENT>
+      <WAITING_TIME_S>0.200</WAITING_TIME_S>
+      <TEMP_SET_DEGC>21.400</TEMP_SET_DEGC>
+      <AV_TEMP_DEGC>21.400</AV_TEMP_DEGC>
+      <PROCEDURE_TYPE>RPoly1</PROCEDURE_TYPE>
+      <FILE_NAME>Demokritos_VPX37401_028_2-S_HM_E_Left_PQC2_RPoly.xml</FILE_NAME>
+    </DATA>
+    <CHILD_DATA_SET>
+      <HEADER>
+        <TYPE>
+          <EXTENSION_TABLE_NAME>TEST_SENSOR_IV</EXTENSION_TABLE_NAME>
+          <NAME>Tracker Halfmoon IV Test</NAME>
+        </TYPE>
+      </HEADER>
+      <DATA_SET>
+        <COMMENT_DESCRIPTION>Test</COMMENT_DESCRIPTION>
+        <VERSION>V2</VERSION>
+        <PART>
+          <NAME_LABEL>37401_028_2-S_HM_EE</NAME_LABEL>
+          <KIND_OF_PART>2S Halfmoon E</KIND_OF_PART>
+        </PART>
+        <DATA>
+          <VOLTS>-0.100</VOLTS>
+          <CURRNT_NAMP>-66.586</CURRNT_NAMP>
+          <TIME>2021-09-30 02:46:28</TIME>
+          <TEMP_DEGC>21.400</TEMP_DEGC>
+          <AIR_TEMP_DEGC>21.400</AIR_TEMP_DEGC>
+          <RH_PRCNT>26.800</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>-0.075</VOLTS>
+          <CURRNT_NAMP>-53.790</CURRNT_NAMP>
+          <TIME>2021-09-30 02:46:31</TIME>
+          <TEMP_DEGC>21.400</TEMP_DEGC>
+          <AIR_TEMP_DEGC>21.400</AIR_TEMP_DEGC>
+          <RH_PRCNT>26.700</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>-0.050</VOLTS>
+          <CURRNT_NAMP>-35.544</CURRNT_NAMP>
+          <TIME>2021-09-30 02:46:32</TIME>
+          <TEMP_DEGC>21.400</TEMP_DEGC>
+          <AIR_TEMP_DEGC>21.400</AIR_TEMP_DEGC>
+          <RH_PRCNT>26.700</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>-0.025</VOLTS>
+          <CURRNT_NAMP>-17.211</CURRNT_NAMP>
+          <TIME>2021-09-30 02:46:34</TIME>
+          <TEMP_DEGC>21.400</TEMP_DEGC>
+          <AIR_TEMP_DEGC>21.400</AIR_TEMP_DEGC>
+          <RH_PRCNT>26.700</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>0.000</VOLTS>
+          <CURRNT_NAMP>1.014</CURRNT_NAMP>
+          <TIME>2021-09-30 02:46:35</TIME>
+          <TEMP_DEGC>21.400</TEMP_DEGC>
+          <AIR_TEMP_DEGC>21.400</AIR_TEMP_DEGC>
+          <RH_PRCNT>26.700</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>0.025</VOLTS>
+          <CURRNT_NAMP>17.171</CURRNT_NAMP>
+          <TIME>2021-09-30 02:46:37</TIME>
+          <TEMP_DEGC>21.400</TEMP_DEGC>
+          <AIR_TEMP_DEGC>21.400</AIR_TEMP_DEGC>
+          <RH_PRCNT>26.700</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>0.050</VOLTS>
+          <CURRNT_NAMP>35.473</CURRNT_NAMP>
+          <TIME>2021-09-30 02:46:39</TIME>
+          <TEMP_DEGC>21.400</TEMP_DEGC>
+          <AIR_TEMP_DEGC>21.400</AIR_TEMP_DEGC>
+          <RH_PRCNT>26.700</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>0.075</VOLTS>
+          <CURRNT_NAMP>53.736</CURRNT_NAMP>
+          <TIME>2021-09-30 02:46:40</TIME>
+          <TEMP_DEGC>21.400</TEMP_DEGC>
+          <AIR_TEMP_DEGC>21.400</AIR_TEMP_DEGC>
+          <RH_PRCNT>26.700</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>0.100</VOLTS>
+          <CURRNT_NAMP>69.707</CURRNT_NAMP>
+          <TIME>2021-09-30 02:46:42</TIME>
+          <TEMP_DEGC>21.400</TEMP_DEGC>
+          <AIR_TEMP_DEGC>21.400</AIR_TEMP_DEGC>
+          <RH_PRCNT>26.700</RH_PRCNT>
+        </DATA>
+        <CHILD_DATA_SET>
+          <HEADER>
+            <TYPE>
+              <EXTENSION_TABLE_NAME>HALFMOON_IV_PAR</EXTENSION_TABLE_NAME>
+              <NAME>Tracker Halfmoon IV Parameters</NAME>
+            </TYPE>
+          </HEADER>
+          <DATA_SET>
+            <COMMENT_DESCRIPTION>Test</COMMENT_DESCRIPTION>
+            <VERSION>IV_measurement-004</VERSION>
+            <PART>
+              <NAME_LABEL>37401_028_2-S_HM_EE</NAME_LABEL>
+              <KIND_OF_PART>2S Halfmoon E</KIND_OF_PART>
+            </PART>
+            <DATA>
+              <RPOLY_MOHM>1.437</RPOLY_MOHM>
+            </DATA>
+          </DATA_SET>
+        </CHILD_DATA_SET>
+      </DATA_SET>
+    </CHILD_DATA_SET>
+  </DATA_SET>
+</ROOT>
